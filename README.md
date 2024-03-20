@@ -5,7 +5,7 @@ I'm a IT student that likes GameDev
 I have around 2.5 years of self taught Unity experience
 
 - Working on few different solo projects, as well as leading 2 smaller gamedev teams.
-  - Currently learning about JobSystem, ECS, Shaders, UniRX, DOTween,VR and procedural terrain generation,
+- Currently learning about Burst, JobSystem, ECS, Shaders, UniRX, DOTween, VR and procedural terrain generation.
 
 Member of [HolyArts](https://github.com/Holy-Arts)
 
