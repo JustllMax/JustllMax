@@ -1,15 +1,14 @@
 # Hi there
 
-I'm a IT student that likes GameDev 
+I'm a junior Unity game developer that enjoyes boardgames 
 
-I have around 2.5 years of self taught Unity experience
+I have around 3 years of self taught Unity experience and a year of commercial experience.
 
-- Working on few different solo projects, as well as leading 2 smaller gamedev teams.
-- Currently learning about Burst, JobSystem, ECS, Shaders, UniTask, DOTween, VR and procedural terrain generation.
+- Working on few different solo projects, as well as leading a small, amateur gamedev team.
+- Currently developing package for Unity uGUI.
 
 Member of [HolyArts](https://github.com/Holy-Arts)
 
-Lead of [2Ring-United](https://github.com/2Ring-United)
 <!--
 **JustllMax/JustllMax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
