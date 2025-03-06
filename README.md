@@ -2,7 +2,7 @@
 
 I'm a junior Unity game developer that enjoyes boardgames 
 
-I have around 3 years of self taught Unity experience and a year of commercial experience.
+I have about 4 years of self taught Unity experience and a year of commercial experience.
 
 - Working on few different solo projects, as well as leading a small, amateur gamedev team.
 - Currently developing package for Unity uGUI.
