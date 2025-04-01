@@ -8,7 +8,7 @@ I have about 4 years of self taught Unity experience and a year of commercial ex
 - Currently developing package for Unity uGUI.
 
 Member of [HolyArts](https://github.com/Holy-Arts)
-
+Here's my [Itch](https://justlmax.itch.io/)]
 <!--
 **JustllMax/JustllMax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
