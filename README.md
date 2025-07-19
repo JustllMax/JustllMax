@@ -7,7 +7,7 @@ I have about 4 years of self taught Unity experience and a year of commercial ex
 - Working on few different solo projects, as well as leading a small, amateur gamedev team.
 - Currently developing package for Unity uGUI.
 
-Member of [HolyArts](https://github.com/Holy-Arts)
+Lead of [TheBebocks](https://github.com/TheBebock), Member of [HolyArts Games](https://github.com/Holy-Arts)
 
 Here's my [Itch](https://justlmax.itch.io/)
 <!--
